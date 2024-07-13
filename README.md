@@ -1,6 +1,6 @@
 # Drone-Dispatch-GUI
 
-The Drone Dispatch System is a comprehensive application designed to manage various aspects of drone operations, including customers, products, drones, pilots, and orders. Built with Python Tkinter for the user interface and utilizes a MySQL database with various fucntions, procedures, and views to simulate the functionality of the various actions in the program.
+The Drone Dispatch System is a comprehensive application designed to manage various aspects of drone operations, including customers, products, drones, pilots, and orders. Built with Python Tkinter for the user interface and utilizes a MySQL database with various functions, procedures, and views to simulate the functionality of the various actions in the program.
 
 To set up the program, first obtain the GUI and SQL code. Change the 'Password' field to your SQL password in order
 to connect to the drone_dispatch database. Then simply run the program on your terminal or in your IDE to start up.
